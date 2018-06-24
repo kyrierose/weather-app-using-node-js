@@ -1,3 +1,5 @@
-# weather-app-using-node-js
+# Terminal-based-Weather-Application-using-NodeJS
 
-Just a Test!!
+Execution:
+
+node index.js -c cityName
